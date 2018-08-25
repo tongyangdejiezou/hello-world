@@ -1,0 +1,27 @@
+#main-container ul li:nth-child(1) {
+  background-color: #FF0000;
+}
+
+#main-container ul li:nth-child(2) {
+  background-color: #FFA500;
+}
+
+#main-container ul li:nth-child(3) {
+  background-color: #FFFF00;
+}
+
+#main-container ul li:nth-child(4) {
+  background-color: #008000;
+}
+
+#main-container ul li:nth-child(5) {
+  background-color: #00FFFF;
+}
+
+#main-container ul li:nth-child(6) {
+  background-color: #0000FF;
+}
+
+#main-container ul li:nth-child(7) {
+  background-color: #800080;
+}
